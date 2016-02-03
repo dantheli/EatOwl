@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>738F9B9D-750E-4CFA-B96D-B7C52680F70E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EatOwl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0A2377D3EF16341104294320CBC758B8F17D44E5</key>
+		<string>https://bitbucket.org/dannyzl/foodfinderios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EatOwl.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0A2377D3EF16341104294320CBC758B8F17D44E5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/dannyzl/foodfinderios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0A2377D3EF16341104294320CBC758B8F17D44E5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0A2377D3EF16341104294320CBC758B8F17D44E5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>foodfinderios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
